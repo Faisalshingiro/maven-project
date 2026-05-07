@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.medicare.hospital.service.PatientAdmissionServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.098 s -- in com.medicare.hospital.service.PatientAdmissionServiceTest
